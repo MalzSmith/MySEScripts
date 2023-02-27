@@ -1,0 +1,3 @@
+﻿This script is very simple. If you add multiple doors that have the same name, it only allows one of them to be open at once, disables all other doors. There is no support for air vents or anything of the sort.
+
+Just paste the script then run it from the console. If you add or remove or rename doors, make sure to run it again.

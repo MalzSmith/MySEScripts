@@ -1,0 +1,12 @@
+﻿This program offers multiple features that can be turned on or off. You can configure it using the CustomData of your PB.
+
+Modules:
+
+HydrogenSaving
+Turns off Hydrogen Thrusters connected to this grid if they have been connected and turned on for more than 30 seconds (at least 30, not very precise)
+
+InventoryCleaning
+Cleans up inventories. Stacks items of the same type, moves output from assemblers and refineries
+
+RefineryFeeding
+Feeds ores to refineries from containers (tries to keep all refinery slots filled)

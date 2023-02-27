@@ -1,0 +1,8 @@
+﻿Simple fuel manager script for your ships. Edit the blocks custom data to change configuration
+
+AutoFillBatteries - sets batteries to recharge when ship is docked
+AutoFillHydrogen - sets hydrogen tanks to fill when ship is docked
+AutoFillOxygen - sets hydrogen tanks to fill when ship is docked
+AutoFillIce - Fills containers that have "IceStorage" in their name with ice when ship is docked
+AutoCancelDampeners - Stops inertia dampeners when ship is docked
+AutoPowerGen - starts H2 generators and reactors when power drops below set value (default is .2, edit config in code)
