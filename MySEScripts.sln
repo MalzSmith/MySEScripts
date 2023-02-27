@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryBasicAirlock", "VeryBas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fuel manager", "Fuel manager\Fuel manager.csproj", "{6E56DC5C-D485-40F1-931D-72E3150B39DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraScanner", "CameraScanner\CameraScanner.csproj", "{584D8C19-D8EB-4BAD-AA00-4859491780CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -20,6 +22,8 @@ Global
 		{1D4911BE-1E90-4234-A734-AE68CD2B2944}.Debug|x64.Build.0 = Debug|x64
 		{6E56DC5C-D485-40F1-931D-72E3150B39DD}.Debug|x64.ActiveCfg = Debug|x64
 		{6E56DC5C-D485-40F1-931D-72E3150B39DD}.Debug|x64.Build.0 = Debug|x64
+		{584D8C19-D8EB-4BAD-AA00-4859491780CD}.Debug|x64.ActiveCfg = Debug|x64
+		{584D8C19-D8EB-4BAD-AA00-4859491780CD}.Debug|x64.Build.0 = Debug|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
